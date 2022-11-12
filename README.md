@@ -1,5 +1,5 @@
-# Desafio-GIT-GITHUB-DIO
-projeto referente ao desafio 1 da DIO
+# Projeto - DIO
+## Desafio GIT/GITHUB
 
 Link Utéis
 
